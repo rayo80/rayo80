@@ -16,7 +16,7 @@
  ## ⚡ Tecnologías <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <p align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/py.svg"></code> &nbsp; &nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/R.svg"></code> &nbsp; &nbsp;
+  <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png"></code> &nbsp; &nbsp;
   <code><img height="40" src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/java.svg"></code>&nbsp; &nbsp; 
   <code><img height="40" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 </p>
