@@ -9,7 +9,7 @@
 <img align="right" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif"/>
 
 ## Hola a todos <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="27px">,
-¡Oli! soy Sergio Miguel Villa Mendoza, entusiasta de la programación y la tecnología. Actualmente soy egresado de la carrera de Ingeniería Electronica en la [Universidad Nacional Mayor de Ingeniería](https://www.uni.edu.pe/).
+¡soy Sergio Miguel Villa Mendoza, entusiasta de la programación y la tecnología. Actualmente estoy aprendiendo sobre vision artificial investigando las arquitecturas y modelos de las CNN(https://www.uni.edu.pe/).
 
 
 
