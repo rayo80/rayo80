@@ -9,7 +9,7 @@
 <img align="right" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif"/>
 
 ## Hola a todos <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="27px">,
- Soy un entusiasta de la programación y la tecnología. Actualmente estoy aprendiendo sobre vision artificial,investigando las arquitecturas y modelos de las CNN.
+ Soy un entusiasta de la programación y la tecnología. Actualmente estoy trabajando con django-rest-framework y angular.
 
 
 
@@ -17,8 +17,10 @@
 <p align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/py.svg"></code> &nbsp; &nbsp;
   <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png"></code> &nbsp; &nbsp;
-  <code><img height="40" src="https://img.icons8.com/fluency/48/000000/opencv.png"></code>&nbsp; &nbsp; 
+  <code><img height="40" src="https://img.icons8.com/fluency/48/000000/opencv.png"></code>&nbsp; &nbsp;
+   <code><img height="40" src="https://img.icons8.com/fluency/48/000000/docker.png"></code> &nbsp;&nbsp;
   <code><img height="40" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+  <code><img height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"></code>&nbsp;&nbsp;
 </p>
   
 <p align="center"> 
@@ -26,8 +28,13 @@
   <code><img height="40" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
   <code><img height="40" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
   <code><img height="40" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-  <code><img height="40" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
-  </p>
+  <code><img height="40" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/typescript.png" /></code>
+ </p>
+ <p align="center"> 
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"></code> &nbsp;&nbsp;
+   <code><img height="40" src="https://img.icons8.com/fluency/48/000000/opencv.png"></code>&nbsp; &nbsp; 
+ </p>
 <br/> 
 
 ---
