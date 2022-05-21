@@ -10,8 +10,7 @@
 
 ## Hola a todos <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="27px">,
  Soy un entusiasta de la programación y la tecnología. Actualmente estoy trabajando con django-rest-framework y angular.
-
-
+pdta: esa imagen de BMO solia estar a la derecha ,algo ha cambiado,luego lo arreglo XD.
 
  ## ⚡ Tecnologías <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <p align="center">
