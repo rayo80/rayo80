@@ -8,7 +8,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif"/>
 
-## Hola a todos <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="27px">,
+## Hola a todos <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="4px">,
  Soy un entusiasta de la programación y la tecnología. Actualmente estoy trabajando con django-rest-framework y angular.
 pdta: esa imagen de BMO solia estar a la derecha ,algo ha cambiado,luego lo arreglo XD.
 
