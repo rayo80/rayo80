@@ -9,7 +9,7 @@
 <img align="right" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif"/>
 
 ## Hola a todos <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40">,
- Soy un entusiasta de la programación y la tecnología orientado a los sitemas inteligentes que combinan 
+ Soy un entusiasta de la programación y la tecnología orientado a los sistemas inteligentes que combinan 
  Software y Hardware. Actualmente estoy trabajando con django-rest-framework y angular.
 
 
